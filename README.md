@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Omorfarouk/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Omorfarouk/leetcode_solution/tree/master/0503-next-greater-element-ii) |
+| [2058-concatenation-of-array](https://github.com/Omorfarouk/leetcode_solution/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Omorfarouk/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Omorfarouk/leetcode_solution/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Omorfarouk/leetcode_solution/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
